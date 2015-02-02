@@ -1,0 +1,6 @@
+﻿  sequences.cpp
+c:\users\mathieu\desktop\tp3-2_ok\tp3-2_ok\sequences.cpp(30): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\mathieu\desktop\tp3-2_ok\tp3-2_ok\sequences.cpp(61): warning C4018: '<' : incompatibilité signed/unsigned
+  seq_main.cpp
+  Génération de code en cours...
+  TP3-2_ok.vcxproj -> C:\Users\Mathieu\Desktop\TP3-2_ok\Debug\TP3-2_ok.exe

@@ -1,0 +1,17 @@
+﻿La génération a démarré 22/09/2014 19:43:27.
+     1>Projet "C:\Users\Mathieu\Documents\TP POO\TP2\TP2\TP2.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Chaine.cpp main.cpp
+         Chaine.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mathieu\Documents\TP POO\TP2\Release\TP2.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mathieu\Documents\TP POO\TP2\Release\TP2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mathieu\Documents\TP POO\TP2\Release\TP2.lib" /MACHINE:X86 /SAFESEH Release\Chaine.obj
+         Release\main.obj
+         Génération de code en cours
+         Fin de la génération du code
+         TP2.vcxproj -> C:\Users\Mathieu\Documents\TP POO\TP2\Release\TP2.exe
+     1>Génération du projet "C:\Users\Mathieu\Documents\TP POO\TP2\TP2\TP2.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.63

@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TP3_ok.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Ignoré... (aucune modification pertinente détectée)
+  main.cpp
+  Fraction.cpp
+  Exception.cpp
+  TP3_ok.vcxproj -> C:\Users\Mathieu\Desktop\TP3_ok\Debug\TP3_1.exe

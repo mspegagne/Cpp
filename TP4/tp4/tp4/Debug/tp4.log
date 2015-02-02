@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\mathieu\desktop\tp4\tp4\list.h(165): warning C4800: 'int' : valeur forcée à la valeur booléenne 'true' ou 'false' (avertissement sur les performances)
+          c:\users\mathieu\desktop\tp4\tp4\list.h(156) : lors de la compilation de la fonction membre 'bool List<T>::operator ==(const T &) const' de la classe modèle
+          with
+          [
+              T=int
+          ]
+          c:\users\mathieu\desktop\tp4\tp4\ensemble.h(44) : voir la référence à l'instanciation de la fonction modèle 'bool List<T>::operator ==(const T &) const' en cours de compilation
+          with
+          [
+              T=int
+          ]
+          c:\users\mathieu\desktop\tp4\tp4\ensemble.h(24) : voir la référence à l'instanciation de la classe modèle 'List<T>' en cours de compilation
+          with
+          [
+              T=int
+          ]
+          c:\users\mathieu\desktop\tp4\tp4\main.cpp(16) : voir la référence à l'instanciation de la classe modèle 'Ensemble<int>' en cours de compilation
+  tp4.vcxproj -> C:\Users\Mathieu\Desktop\tp4\Debug\tp4.exe
